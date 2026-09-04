@@ -37,6 +37,8 @@
 - 🌐 принимать Telegram webhook через API Gateway;
 - 🧹 удалять созданные облачные ресурсы после завершения работы.
 
+> 🚀 **[Повторить с AI Studio →](https://aistudio.yandex.ru/platform?utm_source=github&utm_medium=owned&utm_campaign=t:info;gl:lgen&utm_content=cookbook_crm_utility)**
+
 ---
 
 ## Архитектура
@@ -206,6 +208,7 @@ Webhook URL должен указывать на:
 
 ---
 
+> 🚀 **[Повторить с AI Studio →](https://aistudio.yandex.ru/platform?utm_source=github&utm_medium=owned&utm_campaign=t:info;gl:lgen&utm_content=cookbook_crm_utility)**
 
 ## Устранение неполадок
 
